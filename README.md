@@ -8,3 +8,6 @@ rgd0066
 rgd0066
 ## Favorite Linux Command
 htop
+## EUID
+## Favorite Linux Command
+htop
