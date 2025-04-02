@@ -11,3 +11,7 @@ htop
 ## EUID
 ## Favorite Linux Command
 htop
+## EUID
+
+## Favorite Linux Command
+
